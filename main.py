@@ -1,7 +1,6 @@
 from complex_num import complex_nums as comp
 from racional_num import rac_nums as rac
-from LoddingModule import *
-
+import LoddingModule
 
 print('\nДобро пожаловать в калькулятор! \n'
       'Для работы с ним, перед решением примера вначале выберите тип чисел:\n'
