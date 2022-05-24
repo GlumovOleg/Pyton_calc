@@ -15,4 +15,4 @@ def rac_nums(a, b, action):
         result = a + b
     elif action == '-':
         result = a - b
-    return result #== Fraction(a) / Fraction(b)
+    return result
